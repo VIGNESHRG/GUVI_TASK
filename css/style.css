@@ -1,0 +1,45 @@
+.profile{
+    background-color: rgb(136, 246, 178);
+    padding:14px;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#guest{
+    color:rgb(69, 237, 69)
+}
+
+#loginref{
+    text-decoration:none;
+}
+
+.header{
+    background-color: bisque;
+    text-align:center;
+    color:blueviolet;
+    padding:5px;
+    border-radius:5px;
+}
+
+.footerbutton{
+    text-align: center;
+}
+
+.footersignup{
+    text-align: center;
+}
+
+a:hover{
+    color:red;
+}
+
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
